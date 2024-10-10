@@ -1,1 +1,55 @@
 /* ini css */
+
+body {
+    background: antiquewhite;
+}
+
+.suhu-style { 
+    font-size: 20px;
+    font-family: math;
+    font-style: italic;
+}
+
+.form-btn-submit {
+    background-color: lightgreen;
+    border: none;
+    padding: 5px;
+    border-radius: 8px
+}
+
+.form-btn-reset {
+    background-color: rgb(144, 222, 238);
+    border: none;
+    padding: 5px;
+    border-radius: 8px
+}
+
+.form-btn-reverse {
+    background-color: rgb(238, 144, 144);
+    border: none;
+    padding: 5px;
+    border-radius: 8px
+}
+
+textarea {
+    width: 300px;
+    height: 75px;
+    padding: 12px 12px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+}
+
+input {
+    width: 300px;
+    padding: 12px 12px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+}
